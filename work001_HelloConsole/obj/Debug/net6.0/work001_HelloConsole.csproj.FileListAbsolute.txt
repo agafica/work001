@@ -1,0 +1,15 @@
+/Users/Albina/Desktop/work/work001_HelloConsole/bin/Debug/net6.0/work001_HelloConsole
+/Users/Albina/Desktop/work/work001_HelloConsole/bin/Debug/net6.0/work001_HelloConsole.deps.json
+/Users/Albina/Desktop/work/work001_HelloConsole/bin/Debug/net6.0/work001_HelloConsole.runtimeconfig.json
+/Users/Albina/Desktop/work/work001_HelloConsole/bin/Debug/net6.0/work001_HelloConsole.dll
+/Users/Albina/Desktop/work/work001_HelloConsole/bin/Debug/net6.0/work001_HelloConsole.pdb
+/Users/Albina/Desktop/work/work001_HelloConsole/obj/Debug/net6.0/work001_HelloConsole.csproj.AssemblyReference.cache
+/Users/Albina/Desktop/work/work001_HelloConsole/obj/Debug/net6.0/work001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Albina/Desktop/work/work001_HelloConsole/obj/Debug/net6.0/work001_HelloConsole.AssemblyInfoInputs.cache
+/Users/Albina/Desktop/work/work001_HelloConsole/obj/Debug/net6.0/work001_HelloConsole.AssemblyInfo.cs
+/Users/Albina/Desktop/work/work001_HelloConsole/obj/Debug/net6.0/work001_HelloConsole.csproj.CoreCompileInputs.cache
+/Users/Albina/Desktop/work/work001_HelloConsole/obj/Debug/net6.0/work001_HelloConsole.dll
+/Users/Albina/Desktop/work/work001_HelloConsole/obj/Debug/net6.0/refint/work001_HelloConsole.dll
+/Users/Albina/Desktop/work/work001_HelloConsole/obj/Debug/net6.0/work001_HelloConsole.pdb
+/Users/Albina/Desktop/work/work001_HelloConsole/obj/Debug/net6.0/work001_HelloConsole.genruntimeconfig.cache
+/Users/Albina/Desktop/work/work001_HelloConsole/obj/Debug/net6.0/ref/work001_HelloConsole.dll
